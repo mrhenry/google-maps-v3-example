@@ -1,0 +1,10 @@
+html,
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+#map {
+  background-color: rgb(240,240,240);
+  height: 300px;
+  width: 600px;
+}
